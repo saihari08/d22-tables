@@ -1,0 +1,29 @@
+#ipl{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+#ipl2{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+thead{
+    background-color: aqua;
+}
+tbody{
+    background-color: lightgreen;
+}
+
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+td,th{
+    border: 2px solid black;
+}
+td{
+    text-align: center;
+}
